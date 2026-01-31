@@ -1,0 +1,66 @@
+payload:
+  # Russian Banks
+  # > Alfa Bank
+  - DOMAIN-SUFFIX,alfabank.ru
+  - DOMAIN-SUFFIX,alfabank.com
+  - DOMAIN-SUFFIX,click.alfabank.ru  
+  
+  # > Sber
+  - DOMAIN-SUFFIX,sberbank.ru
+  - DOMAIN-SUFFIX,online.sberbank.ru
+  - DOMAIN-SUFFIX,ib.sberbank.ru
+
+  # > VTB
+  - DOMAIN-SUFFIX,vtb.ru
+  - DOMAIN-SUFFIX,online.vtb.ru
+
+  # > Tinkoff
+  - DOMAIN-SUFFIX,tinkoff.ru
+  - DOMAIN-SUFFIX,ibank.tinkoff.ru
+
+  # > Yandex Money
+  - DOMAIN-SUFFIX,money.yandex.ru        # Old domain
+
+  # > QIWI
+  - DOMAIN-SUFFIX,qiwi.com
+  - DOMAIN-SUFFIX,qiwi.ru
+
+  # > YooMoney
+  - DOMAIN-SUFFIX,yoomoney.ru
+
+  # Type
+  # > Yandex
+  - DOMAIN,downloader.disk.yandex.ru     # Yandex Disk CDN
+  - DOMAIN-SUFFIX,api-maps.yandex.ru     # Yandex Maps API
+
+  # > Russian Media
+  - DOMAIN-SUFFIX,rbc.ru
+  - DOMAIN-SUFFIX,rbk.ru
+
+  # > RRR
+  - DOMAIN-SUFFIX,rzd.ru
+  - DOMAIN-SUFFIX,pass.rzd.ru            # Tickets
+
+  # > GosUslugi
+  - DOMAIN-SUFFIX,gosuslugi.ru
+  - DOMAIN-SUFFIX,esia.gosuslugi.ru
+  - DOMAIN-SUFFIX,lk.gosuslugi.ru
+
+  # > mos.ru Portal
+  - DOMAIN,robot.mos.ru
+
+  # > Federal Taxation Service
+  - DOMAIN-SUFFIX,nalog.gov.ru
+  - DOMAIN-SUFFIX,lkfl.nalog.ru          # FTS profile
+
+  # > MGTS
+  - DOMAIN-SUFFIX,mgts.ru
+  
+  # > Center Energo
+  - DOMAIN-SUFFIX,centreenergo.ru
+
+  # > RU
+  - DOMAIN,pub.fsa.gov.ru
+  
+  # Misc
+  - DOMAIN-SUFFIX,downdetector.ru        # Russian DownDetector
